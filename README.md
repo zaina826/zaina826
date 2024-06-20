@@ -40,10 +40,20 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 ### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/English-Native-brightgreen?style=flat-square&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Arabic-Native-brightgreen?style=flat-square&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/Turkish-Advanced-yellowgreen?style=flat-square&logo=appveyor"/>
-  <img src="https://img.shields.io/badge/French-Beginner-yellow?style=flat-square&logo=appveyor"/>
+  <img src="https://img.icons8.com/color/48/000000/usa.png"/> <strong>English:</strong> Native
+  <br>
+  <img src="https://img.icons8.com/color/48/000000/palestine.png"/> <strong>Arabic:</strong> Native
+  <br>
+  <img src="https://img.icons8.com/color/48/000000/turkey.png"/> <strong>Turkish:</strong> Advanced
+  <br>
+  <img src="https://img.icons8.com/color/48/000000/france.png"/> <strong>French:</strong> Beginner
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/English-100%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arabic-100%25-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Turkish-75%25-yellowgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/French-25%25-yellow?style=for-the-badge"/>
 </p>
 
 ## 🥇 Certifications and Milestones
@@ -86,7 +96,6 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaina826&layout=compact&theme=radical)
 
-![Footer](https://your-image-url.com)
 
 
 <!--
