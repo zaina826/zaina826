@@ -51,9 +51,9 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 
 ## 🥇 Certifications and Milestones
 
-- Full scholarship by the [Turkish government](https://ytb.gov.tr/daireler/uluslararasi-ogrenciler/turkiye-burslari) to study [AI engineering][https://www.cs.hacettepe.edu.tr/] at one of Turkey's top universities.
+- Full scholarship by the [Turkish government](https://ytb.gov.tr/daireler/uluslararasi-ogrenciler/turkiye-burslari) to study [AI engineering](https://www.cs.hacettepe.edu.tr/) at one of Turkey's top universities.
 - Granted full scholarship to study and intern at [EPFL Switzerland](https://www.epfl.ch/en/) in the Data Analytics Labs.
-- Participating in a faculty-mentored TinyML research project at (Hacettepe DREAM Committee](https://dream.cs.hacettepe.edu.tr/projects.html), optimizing computer vision applications for microcontrollers using quantization and pruning.
+- Participating in a faculty-mentored TinyML research project at [Hacettepe DREAM Committee](https://dream.cs.hacettepe.edu.tr/projects.html), optimizing computer vision applications for microcontrollers using quantization and pruning.
 - [HUPROG](https://bm.erciyes.edu.tr/tr/etkinlik-detay/hurpog24) 2024 National Programming Competition Finalist.
 - Completed a data analysis course from [Google](https://www.coursera.org/learn/foundations-data).
 - Maintaining a GPA of 3.5 in my Bachelor’s degree program.
