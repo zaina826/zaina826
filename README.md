@@ -1,12 +1,13 @@
-# Hi there, I'm Zaina Abushaban! 👋
+# Hola! I'm Zaina! 👋
+# Welcome to my corner of GitHub!
 
 
 ## 🌟 About Me
 
 I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine Learning, and Software Development. I love solving real-world problems using technology and continuously strive to learn and grow in my field.
 
-- 🎓 **Education**: Bachelor’s degree in AI Engineering from Hacettepe University.
-- 🌱 **Current Focus**: AI research, mathematical prediction software, neural networks, and their optimizations.
+- 🎓 **Education**: Pursuing a Bachelor’s degree in AI Engineering from Hacettepe University.
+- 🌱 **Current Focus**: researching computer vision, mathematical prediction software, neural networks, and their optimizations.
 - 🔭 **Currently Working On**: Optimizing neural networks and TinyML projects.
 - 💬 **Ask Me About**: AI, Machine Learning, Python, Java, C++, and front-end development.
 - 📫 **Contact Me**: zainaschaban@gmail.com | +90 (552) 680 28 93 | Ankara, Turkey
@@ -38,71 +39,39 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 
 ### Languages
 
-- **English**: Fluent
-- **Arabic**: Native
+- **English**: Native/ Bilingual
+- **Arabic**: Native/ Bilingual
 - **Turkish**: Advanced
 - **French**: Beginner
 
-## 🏆 Achievements
-
-- **High Honor Student** at Hacettepe University.
-- **Certificates**: codeX, EPFL in Switzerland, CorrelationOne in Jordan, and various local institutions in Turkey.
-- **Leadership**: Demonstrated leadership in collaborative projects and developed energy-efficient and optimized technologies.
-- **Research**: Working on TinyML and neural network optimization.
-
-## 🔍 Relevant Experience
-
-### Hacettepe DREAM Committee | Ankara, Turkey
-**Student Research Position** (March 2024 - Present)
-- Participating in a faculty-mentored research project in TinyML.
-- Using quantization and pruning methods to reduce the size of computer vision applications for small microcontrollers.
-
-### Correlation One | Remote
-**Data Analytics Fellowship Program** (September 2023 - Present)
-- Leading a group of engineers and developers.
-- Completed a competitive 14-week training program with real-world case studies.
-- Focused on technical concepts like hardware, networking, troubleshooting, connectivity, and compliance.
-
-### Code For Palestine | Gaza, Palestine
-**Programming and Design Thinking Bootcamp** (July 2018 - July 2020)
-- Participated in weekly training sessions and summer classes.
-- Completed multiple high-rated projects and was featured in a video by Save The Children.
-
-### EPFL Data Analysis Workshop | Remote (Lausanne, Switzerland)
-**Data Analysis and Processing using Python** (July 2023 - September 2023)
-- Participated in daily training sessions with hands-on projects.
-- Graduated at the top tier and accepted to join an AI research lab.
-
-### Google’s Foundation: Data, Everywhere | Remote
-**Data Ecosystems, Spreadsheets, and Visualizations Course** (August 2022)
-- Learned about data manipulation basics through daily online sessions.
-- Worked under the guidance of skilled experts from Google.
-
-## 🎓 Education
-
-**Hacettepe University** | Ankara, Turkey
-- **Major**: Artificial Intelligence Engineering (2021-2026)
-
-**Bashir-Al-Rayyes High School** | Gaza, Palestine
-- **High School Diploma**: 97.7% High Honors
-
 ## 🥇 Certifications and Achievements
 
-- Full scholarship by the Turkish government to study AI engineering at the top university in Turkey.
-- Qualified as one of the top 20 teams in Turkey for the HUPROG algorithms hackathon final round (March 2024).
-- Completed a Google-funded data analysis course.
-- Developed numerous programs in Python, including AI implementations, interactive database software, an e-commerce platform, and desktop games.
-- Maintains a GPA of 3.5 in the Bachelor’s degree program.
+- Full scholarship by the Turkish government to study AI engineering at one of Turkey's top universities.
+- HUPROG 2024 National Programming Competition Finalist.
+- Granted full scholarship to study and intern at EPFL Switzerland in the Data Analytics Labs.
+- Participating in a faculty-mentored TinyML research project at Hacettepe DREAM Committee, optimizing computer vision applications for microcontrollers using quantization and pruning.
+- Completed a data analysis course from Google.
+- Maintaining a GPA of 3.5 in my Bachelor’s degree program.
+- **Certificates**: codeX, EPFL in Switzerland, CorrelationOne in Jordan, and various local institutions in Turkey and Palestine.
+- **Research**: Working on TinyML and neural network optimization.
+- **Leadership**: Demonstrated leadership in collaborative projects and developed energy-efficient and optimized technologies.
+
+## 🔍 What You'll Find in My Repositories
+
+- **PyTorch and TensorFlow Projects**: Including computer vision applications using Python and NumPy.
+- **Machine Learning Projects**: Covering natural language processing, data analysis, and reporting.
+- **Data Exploration**: Exploring various datasets, including using the Gene Ontology framework to discover relationships between GO terms, proteins, and annotations.
+- **Front-End Projects**: My journey began with front-end development using JavaScript, React, and React Native.
+- **University and EPFL Projects**: Algorithms and data structures classes, covering topics like dynamic programming, clustering, and regression models.  
 
 ## 🌐 Connect with Me
 
 - **Email**: zainaschaban@gmail.com
 - **Phone**: +90 (552) 680 28 93
 - **Location**: Ankara, Turkey
-- **LinkedIn**: [Zaina Abushaban](https://www.linkedin.com/in/zaina-abushaban)
+- **LinkedIn & Resume**: [Zaina Abushaban](https://www.linkedin.com/in/zaina-abushaban)
 - **GitHub**: [zaina826](https://github.com/zaina826)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaina826&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaina826&layout=compact&theme=radical)
 
 ![Footer](https://your-image-url.com)
