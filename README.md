@@ -39,10 +39,12 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 
 ### Languages
 
-<img src="https://img.shields.io/badge/English-Native-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Arabic-Native-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Turkish-Advanced-yellowgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/French-Beginner-yellow?style=flat-square"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/English-Native-brightgreen?style=flat-square&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Arabic-Native-brightgreen?style=flat-square&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/Turkish-Advanced-yellowgreen?style=flat-square&logo=appveyor"/>
+  <img src="https://img.shields.io/badge/French-Beginner-yellow?style=flat-square&logo=appveyor"/>
+</p>
 
 ## 🥇 Certifications and Milestones
 
