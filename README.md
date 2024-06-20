@@ -1,4 +1,4 @@
-# Hola! I'm Zaina! 👋
+# Hola! I'm Zaina! 🐝
 # Welcome to my corner of GitHub!
 
 
@@ -10,11 +10,11 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 - 🌱 **Current Focus**: researching computer vision, mathematical prediction software, neural networks, and their optimizations.
 - 🔭 **Currently Working On**: Optimizing neural networks and TinyML projects.
 - 💬 **Ask Me About**: AI, Machine Learning, Python, Java, C++, and front-end development.
-- 📫 **Contact Me**: zainaschaban@gmail.com | +90 (552) 680 28 93 | Ankara, Turkey
+- 📫 **Contact Me**: zainaschaban@gmail.com | www.linkedin.com/in/zaina-abushaban | Ankara, Turkey | Cairo, Egypt
 
 ## 🚀 Skills
 
-### Programming Languages & Tools
+### Code & Software Arsenal ⚔️
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -44,14 +44,16 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 - **Turkish**: Advanced
 - **French**: Beginner
 
-## 🥇 Certifications and Achievements
+## 🥇 Certifications and Milestones
 
 - Full scholarship by the Turkish government to study AI engineering at one of Turkey's top universities.
-- HUPROG 2024 National Programming Competition Finalist.
 - Granted full scholarship to study and intern at EPFL Switzerland in the Data Analytics Labs.
 - Participating in a faculty-mentored TinyML research project at Hacettepe DREAM Committee, optimizing computer vision applications for microcontrollers using quantization and pruning.
+- HUPROG 2024 National Programming Competition Finalist.
 - Completed a data analysis course from Google.
 - Maintaining a GPA of 3.5 in my Bachelor’s degree program.
+
+  
 - **Certificates**: codeX, EPFL in Switzerland, CorrelationOne in Jordan, and various local institutions in Turkey and Palestine.
 - **Research**: Working on TinyML and neural network optimization.
 - **Leadership**: Demonstrated leadership in collaborative projects and developed energy-efficient and optimized technologies.
@@ -59,11 +61,19 @@ I'm Zaina Abushaban, a passionate developer with a keen interest in AI, Machine 
 ## 🔍 What You'll Find in My Repositories
 
 - **PyTorch and TensorFlow Projects**: Including computer vision applications using Python and NumPy.
-- **Machine Learning Projects**: Covering natural language processing, data analysis, and reporting.
-- **Data Exploration**: Exploring various datasets, including using the Gene Ontology framework to discover relationships between GO terms, proteins, and annotations.
+- **Machine Learning Projects**: Covering various techniques and algorithms:
+  - **Natural Language Processing (NLP)**: Projects focusing on text classification and sentiment analysis.
+  - **K-Nearest Neighbors (KNN)**: Implementations for classification and regression tasks.
+  - **Convolutional Neural Networks (CNN)**: Image classification and recognition projects.
+  - **Regression Models**: Linear regression, logistic regression, and other statistical methods.
+  - **Clustering**: K-means, hierarchical clustering, and other clustering techniques.
+- **Data Exploration**: 
+  - **SQL**: Projects using SQL for data manipulation and querying.
+  - **Visualizations**: Data visualizations using libraries like Matplotlib, Seaborn, and Plotly.
+  - **Python Libraries**: Utilizing libraries such as Pandas, NumPy, and SciPy for data analysis and processing.
+  - Exploring various datasets, including using the Gene Ontology framework to discover relationships between GO terms, proteins, and annotations.
 - **Front-End Projects**: My journey began with front-end development using JavaScript, React, and React Native.
-- **University and EPFL Projects**: Algorithms and data structures classes, covering topics like dynamic programming, clustering, and regression models.  
-
+- **University and EPFL Projects**: Algorithms and data structures classes, covering topics like dynamic programming, clustering, and regression models.
 ## 🌐 Connect with Me
 
 - **Email**: zainaschaban@gmail.com
