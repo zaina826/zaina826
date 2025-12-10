@@ -1,5 +1,3 @@
-# Hola! I'm Zaina! 🐝
-# Welcome to my corner of GitHub!
 
 
 ## 🌟 About Me
