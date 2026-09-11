@@ -1,15 +1,15 @@
 # Hi, I'm Zaina 👋
 
-I'm **Zaina Abushaban**, a Computer Engineering master's student at **Istanbul Technical University (İTÜ)** with a background in **Artificial Intelligence Engineering** from Hacettepe University.
+I'm **Zaina Abushaban**, a Computer Engineering master's student at **Istanbul Technical University (İTÜ)** and a **Software Engineer at aiXplain**, with a background in Artificial Intelligence Engineering from Hacettepe University.
 
-My interests lie at the intersection of **machine learning, computer vision, efficient deep learning, signal processing, and AI systems**. I enjoy building practical AI systems, experimenting with new architectures, and finding ways to make machine learning models more efficient, interpretable, and deployable.
+My interests lie at the intersection of **machine learning, computer vision, efficient deep learning, signal processing, and agentic AI systems**. I enjoy building practical AI systems, experimenting with new architectures, and finding ways to make machine learning models more efficient, reliable, and deployable.
 
 * 🎓 **MSc Computer Engineering** — Istanbul Technical University (İTÜ)
 * 🎓 **BSc Artificial Intelligence Engineering** — Hacettepe University, **Salutatorian**
-* 🔬 Interested in **Computer Vision, Efficient AI, TinyML, Signal Processing, Bioacoustics, and AI Agents**
-* 💻 Experience in **AI research, software engineering, model optimization, and applied ML**
+* 💻 **Software Engineer at aiXplain**
+* 🔬 Interested in **Computer Vision, Efficient AI, TinyML, Signal Processing, Bioacoustics & AI Agents**
 * 📄 Published research with **IEEE**
-* 🌍 Previously an **Erasmus+ exchange student at the University of Milan**
+* 🌍 Former **Erasmus+ exchange student at the University of Milan**
 * 📫 **Email:** [zainaschaban@gmail.com](mailto:zainaschaban@gmail.com)
 * 🔗 **LinkedIn:** [linkedin.com/in/zaina-abushaban](https://www.linkedin.com/in/zaina-abushaban)
 
@@ -25,18 +25,20 @@ I'm particularly interested in:
 * **TinyML & Edge AI**
 * **Signal Processing**
 * **Bioacoustics & Biological Data**
-* **Multimodal and Agentic AI Systems**
+* **Agentic & Multi-Agent AI Systems**
 * **Machine Learning for Scientific Applications**
 
 ---
 
 ## 🧠 Current & Recent Work
 
-### 🤖 AI Systems & Software Engineering — aiXplain
+### 🤖 Software Engineer — aiXplain
 
-Worked as a **Software Engineering Intern** at aiXplain, contributing to backend and SDK development for AI systems and agent-based applications.
+Currently working as a **Software Engineer at aiXplain**, an agentic AI company headquartered in **San Jose, California**.
 
-My work involved building and improving infrastructure that makes AI systems more accessible, reliable, and scalable.
+I work on AI agent infrastructure, backend systems, and SDK development, contributing to systems for building, orchestrating, and managing AI agents and their interactions with models, tools, and other components.
+
+I previously joined aiXplain as a **Software Engineering Intern** before transitioning into my current engineering role.
 
 ### ⚡ Efficient Computer Vision & TinyML — Hacettepe DREAM
 
@@ -117,6 +119,12 @@ Z. Abushaban, S. E. Yüzbaşıoğlu, S. Dilek, and S. Tosun
 
 ## 🌍 Experience & Education
 
+**aiXplain** — San Jose, California
+*Software Engineer*
+Present
+
+*Previously: Software Engineering Intern (2024–2026)*
+
 **Istanbul Technical University (İTÜ)**
 *MSc in Computer Engineering*
 2026 – Present
@@ -130,10 +138,6 @@ Z. Abushaban, S. E. Yüzbaşıoğlu, S. Dilek, and S. Tosun
 *Erasmus+ Exchange — Artificial Intelligence / Computer Science*
 2025 – 2026
 
-**aiXplain**
-*Software Engineering Intern — Remote, San Francisco*
-2024 – 2026
-
 **Hacettepe DREAM Committee**
 *Student Researcher — TinyML & Efficient Computer Vision*
 
@@ -144,7 +148,7 @@ Z. Abushaban, S. E. Yüzbaşıoğlu, S. Dilek, and S. Tosun
 
 ## 🏆 Selected Achievements
 
-* 🥈 Graduated **2nd in the Artificial Intelligence Engineering department** at Hacettepe University
+* 🥈 Graduated **2nd in Artificial Intelligence Engineering** at Hacettepe University
 * 🎓 Recipient of a **full Türkiye Scholarships undergraduate scholarship**
 * 📄 Published peer-reviewed research with **IEEE**
 * 🔬 Selected for faculty-mentored **TinyML research**
@@ -166,7 +170,7 @@ Z. Abushaban, S. E. Yüzbaşıoğlu, S. Dilek, and S. Tosun
 
 ## 📫 Let's Connect
 
-I'm always interested in opportunities involving **AI research, machine learning, computer vision, efficient AI systems, and interdisciplinary applications of ML**.
+I'm always interested in opportunities and collaborations involving **AI research, machine learning, computer vision, efficient AI systems, agentic AI, and interdisciplinary applications of ML**.
 
 <p align="left">
   <a href="mailto:zainaschaban@gmail.com">
